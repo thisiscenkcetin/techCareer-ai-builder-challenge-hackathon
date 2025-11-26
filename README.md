@@ -27,13 +27,11 @@
 **🇹🇷 Türkçe**
 - Deprecated `datetime.utcnow()` uyarısı giderildi (artık `datetime.now(UTC)` kullanılıyor)
 - `dev_tasks.py` eklendi: test / coverage / demo kısayolları
-- Yapay zeka üretimi analiz dosyaları temizlendi (sadece gerçek emeğin kaldığı repo)
 - Coverage başlangıç seviyesi: %49 (çekirdek modüller). Sonraki hedef: finansal, grafik ve denklem modülleri için ek testlerle %70+
 
 **🇬🇧 English**
 - Replaced deprecated `datetime.utcnow()` with `datetime.now(UTC)` (timezone-aware)
 - Added `dev_tasks.py` helper (test / coverage / demo shortcuts)
-- Removed AI-generated analysis artifacts to keep repository human-authored
 - Coverage baseline: 49% (core modules). Next goal: add tests for financial, graph plotting and equation solver to reach 70%+
 
 ```bash
