@@ -519,10 +519,5 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 We thank **techcareer.net** for organizing this comprehensive hackathon and **Berkay KAPLAN** for expert instruction and guidance throughout the challenge.
 
-Special appreciation to the Gemini AI team for excellent API documentation and support.
 
----
 
-**Last Updated**: November 26, 2025  
-**Version**: 1.0.0  
-**Status**: Production Ready ✅
