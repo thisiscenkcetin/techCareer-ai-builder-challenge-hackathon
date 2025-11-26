@@ -13,7 +13,7 @@
 
 ---
 
-#EN
+## 🇪🇳 EN
 
 ## 📊 Project Status
 
@@ -520,9 +520,11 @@ We thank **techcareer.net** for organizing this comprehensive hackathon and **Be
 **Status**: Production Ready ✅
 
 
+
 ---
 
-#TR
+
+## 🇹🇷 TR 
 
 ## 📊 Proje Durumu
 
@@ -1009,7 +1011,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 **Geliştirici**: Cenk ÇETİN  
 **E-posta**: dev.cenkcetin@gmail.com  
-**Repository**: [GitHub Linki]
+**Repository**: https://github.com/thisiscenkcetin/techCareer-ai-builder-challenge-hackathon/
 
 ### Destek
 
