@@ -13,7 +13,7 @@
 
 ---
 
-## 🇪🇳 EN
+## 🇪🇳 
 
 ## 📊 Project Status
 
@@ -524,7 +524,7 @@ We thank **techcareer.net** for organizing this comprehensive hackathon and **Be
 ---
 
 
-## 🇹🇷 TR 
+## 🇹🇷 
 
 ## 📊 Proje Durumu
 
