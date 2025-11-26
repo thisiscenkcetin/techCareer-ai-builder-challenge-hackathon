@@ -675,7 +675,7 @@ Tam otomatik CI/CD pipeline kuruldu! Her push ve PR'da otomatik çalışır.
 - ✅ Lint: Zero critical errors
 - ✅ Security: No vulnerabilities
 - ✅ Coverage Baseline: 49% (core logic validated; post-hackathon hedef ≥70%)
-- 🎯 **Bonus Puan:** +20 (CI/CD tam kurulum)
+- 🎯 **Bonus Puan:** (CI/CD tam kurulum) (:
 
 ---
 
