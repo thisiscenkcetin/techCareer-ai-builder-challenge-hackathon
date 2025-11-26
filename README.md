@@ -13,14 +13,6 @@
 
 ---
 
-# 🧮 Calculator Agent
-
-A modular, extensible computation agent powered by Google Gemini AI API, supporting diverse mathematical domains with intelligent problem-solving capabilities.
-
-**Türkçe:** Modüler, genişletilebilir bir hesaplama agent'ı. Google Gemini AI API'sı tarafından desteklenmekte, çeşitli matematiksel alanlarda akıllı problem çözüm yetenekleri sunar.
-
----
-
 ## 📊 Project Status
 
 | Metric | Status |
