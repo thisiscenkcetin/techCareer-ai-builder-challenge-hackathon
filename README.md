@@ -15,18 +15,6 @@
 
 #EN
 
-# 🧮 Calculator Agent
-
-A modular, extensible computation agent powered by Google Gemini AI API, supporting diverse mathematical domains with intelligent problem-solving capabilities.
-
-[![Tests](https://img.shields.io/badge/tests-11%2F11%20passing-brightgreen)](./tests)
-[![Coverage](https://img.shields.io/badge/coverage-49%25-yellow)](./tests)
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
----
-
 ## 📊 Project Status
 
 | Metric | Status |
@@ -535,18 +523,6 @@ We thank **techcareer.net** for organizing this comprehensive hackathon and **Be
 ---
 
 #TR
-
-# 🧮 Calculator Agent
-
-Modüler, genişletilebilir bir hesaplama aracısı. Google Gemini AI API tarafından desteklenmekte, çeşitli matematiksel alanlarda akıllı problem çözüm yetenekleri sunar.
-
-[![Testler](https://img.shields.io/badge/testler-11%2F11%20basarili-brightgreen)](./tests)
-[![Kapsama](https://img.shields.io/badge/kapsama-49%25-yellow)](./tests)
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
-[![Lisans](https://img.shields.io/badge/lisans-MIT-blue.svg)](LICENSE)
-[![Kod Stili](https://img.shields.io/badge/kod%20stili-black-000000.svg)](https://github.com/psf/black)
-
----
 
 ## 📊 Proje Durumu
 
