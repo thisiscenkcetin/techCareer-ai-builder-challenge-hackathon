@@ -248,14 +248,6 @@ class CalculatorAgent:
 # ve import grafiği tek yönlü hale getirildi.
 ```
 
-**Alternatif Çözümler:**
-
- - TYPE_CHECKING kullanarak sadece tip ipuçları için koşullu import
- - Modülleri plugin/registry desenine ayırarak çekirdekten bağımsızlaştırma
- - Her modül için ayrı paket (namespace) yapısı ile import izolasyonu
-
----
-
 ### Level 2: Runtime Hataları (20 puan/hata)
 
 Bu hatalar çalışma zamanında ortaya çıkar ve uygulamanın crash etmesine neden olur.
@@ -295,13 +287,6 @@ class CalculationResult(BaseModel):
 # BaseModel kalıtımı validasyon & default değer yönetimini sağlar. Yoksa
 # Pydantic veri modeli davranışı kazanılamaz; sadece normal bir sınıf kalır.
 ```
-
-**Alternatif Çözümler:**
-
- - dataclass + manuel validasyon (daha fazla boilerplate)
- - attrs kütüphanesi (ek bağımlılık, benzer amaç)
- - Sade dict yapısı (bakımı zor, tip güvenliği yok)
-
 ---
 
 ### Level 3: Silent Failures (30 puan/hata)
@@ -342,13 +327,6 @@ logger.setLevel(logging.INFO)
 # Handler seviyesi logger seviyesinden yüksek olduğunda mesajlar filtrelenir.
 # Seviyeleri hizalayınca silent failure ortadan kalktı.
 ```
-
-**Alternatif Çözümler:**
-
- - Farklı handler'lar (INFO konsol, ERROR dosya)
- - dictConfig ile YAML/JSON konfigürasyonu
- - OpenTelemetry / merkezi izleme entegrasyonu
-
 ---
 
 ## 🎯 Hata Çözüm Rehberi
