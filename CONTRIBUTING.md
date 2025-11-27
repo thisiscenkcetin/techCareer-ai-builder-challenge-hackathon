@@ -417,14 +417,11 @@ Katkıda bulunanlar:
 **🇹🇷 Türkçe:**
 - **Geliştirici**: Cenk ÇETİN
 - **E-posta**: dev.cenkcetin@gmail.com
-- **GitHub Issues**: Teknik sorular
-- **GitHub Discussions**: Genel tartışmalar
 
 **🇬🇧 English:**
 - **Developer**: Cenk ÇETİN
 - **Email**: dev.cenkcetin@gmail.com
-- **GitHub Issues**: Technical questions
-- **GitHub Discussions**: General discussions
+
 
 ---
 
@@ -441,4 +438,4 @@ Bu projeye katkıda bulunarak, katkınızın proje lisansı altında olmasını 
 
 **Teşekkürler!** 🙏
 
-Katkılarınız projeyi daha iyi hale getiriyor!
+
