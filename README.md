@@ -500,7 +500,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Developer**: Cenk ÇETİN  
 **Email**: dev.cenkcetin@gmail.com  
-**Repository**: [GitHub Link]
+**Repository**: https://github.com/thisiscenkcetin/techCareer-ai-builder-challenge-hackathon
 
 ### Support
 
