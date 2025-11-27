@@ -12,6 +12,7 @@
 > **Submission Date:** November 26, 2025
 
 Hata çözümlerine [CHANGELOG](./CHANGELOG.md) sayfasından ulaşabilirsiniz.
+
 You can find the error fixes on the [CHANGELOG](./CHANGELOG.md) page.
 
 ---
