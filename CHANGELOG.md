@@ -209,10 +209,10 @@ tests/test_integration.py::test_command_parsing PASSED
 | Level 3 (Silent) | 60 | 60 | ✅ %100 |
 | Documentation | 10 | 10 | ✅ %100 |
 | CI/CD Pipeline | 20 | 20 | ✅ %100 |
-| Test Coverage | +10 | - | 🎁 Bonus |
-| Contributing Guide | +5 | - | 🎁 Bonus |
-| Badges & Professional | +5 | - | 🎁 Bonus |
-| **TOTAL** | **200** | **190** | **🏆 %105** |
+| Test Coverage |  | - | 🎁 Bonus |
+| Contributing Guide |  | - | 🎁 Bonus |
+| Badges & Professional |  | - | 🎁 Bonus |
+| **TOTAL** | **200** | **190** | **🏆** |
 
 ---
 
@@ -251,5 +251,6 @@ tests/test_integration.py::test_command_parsing PASSED
 **Hackathon:** AI Builder Challenge 2025 - techcareer.net  
 **Instructor:** Berkay KAPLAN  
 **Last Updated:** November 26, 2025  
+
 
 
